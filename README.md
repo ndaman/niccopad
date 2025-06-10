@@ -1,0 +1,2 @@
+# niccopad
+Simple macro pad
